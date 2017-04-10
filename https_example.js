@@ -3,7 +3,7 @@
 
   var options = {
     host: 'stream-large-file.herokuapp.com',
-    path: '/give-me-stuff-now'
+    path: '/give-me-stuff-now';
   };
 
   // called by https when the request is made.
